@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @En-route
 - 👀 I’m interested in people
-- 🌱 I’m currently learning sql and python
+- 🌱 I’m currently learning full stack dev
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: loading....
 
